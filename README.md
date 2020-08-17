@@ -3,7 +3,7 @@
 I'm a front end software developer currently living in peru. I'd like to participate in modern front end web projects and 
 become a better programmer.
 
-<br/>
+<br />
 
 - 🔭 I’m currently working on my health and be a better developer
 - 🌱 I’m currently learning React.js
