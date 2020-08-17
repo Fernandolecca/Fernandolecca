@@ -4,10 +4,12 @@ I'm a front end software developer currently living in peru. I'd like to partici
 become a better programmer.
 
 <br />
+<br />
+
 
 - 🔭 I’m currently working on my health and be a better developer
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on React.js 
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on Angular
 - 🤔 I’m looking for help with starting a blog community 
 - 💬 Ask me about anything 
 - ⚡ Fun fact: I love wrestling and play music.
